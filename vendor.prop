@@ -127,7 +127,9 @@ dalvik.vm.heapmaxfree=8m
 debug.hwui.skia_atrace_enabled=false
 
 # Display
-debug.sf.hw=1
+debug.sf.hw=0
+debug.egl.hw=0
+debug.enable.sglscale=1
 debug.sf.recomputecrop=0
 debug.sf.treat_170m_as_sRGB=1
 debug.sf.latch_unsignaled=0
